@@ -2,7 +2,7 @@
 %define _disable_rebuild_configure 1
 
 Name:		gnome-klotski
-Version:	3.18.1
+Version:	3.18.2
 Release:	1
 Summary:	GNOME Klotski game
 License:	GPLv2+ and GFDL
@@ -32,7 +32,7 @@ moves.
 %install
 %makeinstall_std
 
-%find_lang %{name} --with-gnome 
+%find_lang %{name} --with-gnome
 
 %files -f %{name}.lang
 %doc COPYING

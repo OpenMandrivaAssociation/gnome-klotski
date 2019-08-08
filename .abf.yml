@@ -1,7 +1,2 @@
-removed_sources:
-  gnome-klotski-3.14.2.tar.xz: d1010ad3be0ce06723b17a7e8f7f924e541fda6f
-  gnome-klotski-3.16.1.tar.xz: 97e2d9e8075bf981916f5a1f2ed229e7dd15e189
-  gnome-klotski-3.18.1.tar.xz: 33dc6874ab20ae223de100c35ca0c8322e350199
-  gnome-klotski-3.18.2.tar.xz: db9b7b76bea2525c36d90ead3fe5fbcbc55a423b
 sources:
-  gnome-klotski-3.22.3.tar.xz: c44e13dbd026fefe1262cd83a4b01929c95e1826
+  gnome-klotski-3.32.0.tar.xz: 3b5d76ca64fe484f5167a6bc91a4376d51e53a9a

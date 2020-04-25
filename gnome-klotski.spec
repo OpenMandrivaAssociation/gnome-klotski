@@ -2,7 +2,7 @@
 %define _disable_rebuild_configure 1
 
 Name:		gnome-klotski
-Version:	3.34.4
+Version:	3.36.2
 Release:	1
 Summary:	GNOME Klotski game
 License:	GPLv2+ and GFDL

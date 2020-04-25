@@ -46,3 +46,4 @@ moves.
 %{_datadir}/icons/hicolor/*/apps/*
 %{_datadir}/metainfo/org.gnome.Klotski.appdata.xml
 %{_datadir}/glib-2.0/schemas/org.gnome.Klotski.gschema.xml
+%{_datadir}/dbus-1/services/org.gnome.Klotski.service

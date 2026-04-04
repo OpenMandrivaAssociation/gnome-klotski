@@ -3,7 +3,7 @@
 
 Name:		gnome-klotski
 Version:	3.38.2
-Release:	7
+Release:	8
 Summary:	GNOME Klotski game
 License:	GPLv2+ and GFDL
 Group:		Games/Puzzles
@@ -15,7 +15,7 @@ BuildRequires:	meson
 BuildRequires:	vala-devel
 BuildRequires:	librsvg-vala-devel
 BuildRequires:	itstool
-BuildRequires:	libxml2-utils
+BuildRequires:	libxml2-utils >= 2.15.2
 BuildRequires:	pkgconfig(gee-0.8)
 BuildRequires:	pkgconfig(libgnome-games-support-1)
 Obsoletes:	gnotski

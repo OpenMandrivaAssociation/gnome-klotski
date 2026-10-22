@@ -3,7 +3,7 @@
 
 Name:		gnome-klotski
 Version:	3.38.2
-Release:	11
+Release:	12
 Summary:	GNOME Klotski game
 License:	GPLv2+ and GFDL
 Group:		Games/Puzzles
